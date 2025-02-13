@@ -30,7 +30,7 @@ const emit = defineEmits(['update:selected_plan', 'update:bill_yearly'])
     <div class="content">
       <div class="cards-container">
         <div v-for="(plan, index) in plans" :key="index" class="card" :class="{ active: selected_plan == index }" @click="emit('update:selected_plan', index)">
-          <img :src="'/images/icon-' + plan.name + '.svg'" alt="{{ plan.name }} icon" />
+          <img :src="'images/icon-' + plan.name + '.svg'" alt="{{ plan.name }} icon" />
 
           <div class="card-data">
             <div class="name">{{ plan.name }}</div>
