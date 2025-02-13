@@ -1,0 +1,13 @@
+@import './base.css';
+
+* {
+  font-family: 'Ubuntu', serif;
+  font-size: 16px;
+}
+
+body {
+  min-width: 100lvw;
+  min-height: 100lvh;
+  background-color: #eef5ff;
+  overflow-x: hidden;
+}
