@@ -13,7 +13,7 @@ window.addEventListener('resize', () => (screen_width.value = window.innerWidth)
 
 <template>
   <div class="sidebar">
-    <img :src="'./images/bg-sidebar-' + (screen_width > 750 ? 'desktop' : 'mobile') + '.svg'" alt="sidebar background" />
+    <img :src="'/images/bg-sidebar-' + (screen_width > 750 ? 'desktop' : 'mobile') + '.svg'" alt="sidebar background" />
 
     <div class="steps">
       <div class="step-container" v-for="(step, index) in steps" :key="index" :class="{ active: index + 1 == step_number }">

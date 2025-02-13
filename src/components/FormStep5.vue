@@ -2,7 +2,7 @@
 
 <template>
   <div class="step">
-    <img :src="'./images/icon-thank-you.svg'" alt="thank-you image" />
+    <img src="/images/icon-thank-you.svg" alt="thank-you image" />
 
     <h1>Thank you!</h1>
 
