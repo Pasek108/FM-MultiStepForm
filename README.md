@@ -50,7 +50,7 @@ Frontend Mentor is a great resource for developers looking to gain hands-on expe
 ## About
 My solution to the [Frontend Mentor "Multi-Step Form" challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). The project was created using Vue 3 with TypeScript. It was my first project using Vue. Although the challenge was easy, it gave me an opportunity to practice Vue basics, especially state management and communication between components.
 
-Check out the [live version](https://pasek108.github.io/FM-MultiStepForm/).
+Check out the [live version](https://pasek108.github.io/FM-MultiStepForm/) of this project, as well as my [Frontend Mentor profile](https://www.frontendmentor.io/profile/Pasek108).
 
 <br>
 
