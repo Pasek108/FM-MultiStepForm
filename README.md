@@ -101,10 +101,10 @@ Text
 
 
 ## Performance
-## Desktop
+### Desktop
 ![desktop performance](/_for_readme/desktop-performance.png)
 Accessibility score is lower due to colors contrast of the design.
 
-## Mobile
+### Mobile
 ![mobile performance](/_for_readme/mobile-performance.png)
 
