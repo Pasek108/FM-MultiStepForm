@@ -1,7 +1,7 @@
 <h1 align="center">FM-MultiStepForm - Readme</h1>
 <p align="center">
   <strong>
-    My solution to the <a href="https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ" target="_blank">Frontend Mentor "Multi-Step Form" challenge</a>.
+    My solution to the <a href="https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ" target="_blank">Frontend Mentor "Multi-Step Form" challenge</a>
   </strong>
 </p>
 <div align="center">
