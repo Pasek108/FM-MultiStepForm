@@ -34,7 +34,7 @@
 # Overview :sparkles:
 
 ## About
-My solution to the [Frontend Mentor "Multi-Step Form" challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). 
+My solution to the [Frontend Mentor "Multi-Step Form" challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). The project was created using Vue 3 with TypeScript. It was my first project using Vue. Although the challenge was easy, it gave me an opportunity to practice Vue basics, especially state management and communication between components.
 
 Check out the [live version](https://pasek108.github.io/FM-MultiStepForm/).
 
@@ -94,10 +94,25 @@ Programs:
 # Details :scroll:
 
 ## User interface
+### Step 1
+![step 1](/_for_readme/UI/step-1.png)
+The first step requires the user to input their name, email, and phone number. The provided values are properly validated before proceeding to the next step. 
 
-### Header section
-![header section](/_for_readme/UI/header_section.png)
-Text
+### Step 2
+![step 2](/_for_readme/UI/step-2.png)
+In the second step, the user can select a plan and change the billing period.
+
+### Step 3
+![step 3](/_for_readme/UI/step-3.png)
+The third step allows the user to pick additional options, with pricing dependent on the previously selected billing period.
+
+### Step 4
+![step 4](/_for_readme/UI/step-4.png)
+The fourth step is a summary of the user’s choices. It displays the selected options and the total price. The user can still go back and make changes.
+
+### Step 5
+![step 5](/_for_readme/UI/step-5.png)
+A simple thank-you message.
 
 
 ## Performance
