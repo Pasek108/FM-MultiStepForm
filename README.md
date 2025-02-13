@@ -20,14 +20,28 @@
 <br>
 
 # Table of Contents
+* [FrontendMentor :thinking:](#frontendmentor-thinking)
+  * [What is it](#what-is-it)
+  * [Is it worth doing](#is-it-worth-doing)
 * [Overview :sparkles:](#overview-sparkles)
   * [About](#about)
   * [Features](#features)
   * [Technologies](#technologies)
   * [Setup](#setup)
+  * [Copyright](#copyright-copyright)
 * [Details :scroll:](#details-scroll)
   * [User interface](#user-interface)
   * [Performance](#performance)
+
+<br>
+
+# FrontendMentor :thinking:
+
+## What is it
+[FrontendMentor](https://www.frontendmentor.io/home) is a platform that provides real-world front-end coding challenges to help developers improve their skills. It offers projects ranging from simple layouts to complex web applications, allowing users to practice HTML, CSS, and JavaScript by building solutions that closely resemble professional work.  
+
+## Is it worth doing
+Frontend Mentor is a great resource for developers looking to gain hands-on experience by working on practical projects. The challenges help reinforce best practices, improve design implementation skills, and build a portfolio. However, since there is no automated grading system, feedback depends on community reviews, making it essential to engage with others for constructive criticism.  
 
 <br>
 
@@ -87,6 +101,9 @@ Programs:
   - Add `base: '/repo-name/'` in `vite.config.ts`
   - Run `npm run build`
   - Rename `/dist` folder to `/docs`
+
+## Copyright :copyright:
+I do not own the rights to the content of the challenges. All challenge data was downloaded and included only to provide context for the solutions.
 
 <br>
 
